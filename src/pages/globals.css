@@ -39,7 +39,10 @@ body {
   font-weight: normal;
   overflow-x: hidden;
   overflow-y: hidden;
-  background-image: url("/images/local_bg.jpg");
+  background-image: url("/assets/images/local_bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 p,
