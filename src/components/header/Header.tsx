@@ -1,8 +1,5 @@
-"use client";
-
 import React, { useRef } from "react";
 import { useRouter } from "next/router";
-import { Avatar } from "primereact/avatar";
 import { Button } from "primereact/button";
 import { Menubar } from "primereact/menubar";
 import { Menu } from "primereact/menu";
